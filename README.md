@@ -9,7 +9,7 @@ We can also avoid repetitive tasks in our coding.
 
 ## PRs
 
-Accepting new exerises. Just try to match the existing format.
+Accepting new exercises. Just try to match the existing format.
 
 ## Todo
 
