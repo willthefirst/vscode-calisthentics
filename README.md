@@ -1,6 +1,6 @@
 # vs-code calisthenics
 
-A bunch of exerices to teach you how to use VSCode trickery.
+A bunch of exercises to teach you how to use VSCode trickery.
 
 ## Motivation
 
